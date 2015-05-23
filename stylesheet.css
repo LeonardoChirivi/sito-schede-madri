@@ -1,0 +1,93 @@
+
+#page {
+	
+	background-color:#1E90FF;
+	height:160%;
+	width:60%;
+	margin:auto;
+	margin-top: 8px;
+	border:2px solid black;
+	border-radius:5px;
+}
+
+ul p {color:#cc0000;}
+
+a {color:#0000FF; text-decoration:none;}
+a:hover {font-weight:bold; color:red; text-decoration:underline;}
+a:active {font-weight:bold; color:/*#C71585*/#FFE4E1; text-decoration:underline}
+/*
+a:visited{color:#FF1493;}
+*/
+
+/*testo nella facciata*/
+.frontpg {
+
+	font-family:Cursive;
+	font-size:18px;
+	padding: 40px 8px 8px 8px;
+}
+
+#header {
+
+	clear:both;
+	width: 98%;
+	margin: auto;
+	height: 50px;
+	background-color:#BDB76B;
+	border:2px solid black;
+	border-radius:5px;
+	padding-bottom:10px;
+	
+}
+
+#leftNav {
+
+	float:left;
+	width: 15%;
+	height: 100%;
+	margin-top: 8px;
+	margin-left:20px;
+	background-color:#008B8B;
+	border:2px solid black;
+	border-radius:5px;
+
+}
+
+#header h1{
+
+	color:red; 
+	font-weight:bold;
+	text-align:center;
+	margin-top:10px;
+}
+
+/*#homeButton{
+
+	float:right;
+	height:100px;
+	width:100px;
+	background-color:green;
+	border: 2px solid black;
+	margin-top:8px;
+	margin-right:60px;
+	border-radius:100%;
+	
+}*/
+
+#page h2 {
+	
+	position:relative;
+	color:#cc0000;
+	font-weight:bold;
+	text-align: center;
+}
+
+#page img {
+
+	padding: 30px 10px 0px 165px;
+	}
+	
+ #homeLink{
+ 
+	margin-left:20px;
+ }
